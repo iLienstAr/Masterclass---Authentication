@@ -30,6 +30,13 @@ focused resources like an article, a shorter video, ...
 
 ---
 
-## Other Headers
+## Masterclass Recordings
 
-...
+By Shaun
+
+* [Part 1](https://vimeo.com/535827474)
+* [Part 2](https://vimeo.com/535827751)
+* [Part 3](https://vimeo.com/535828064)
+* [Part 4](https://vimeo.com/535828221)
+* [Part 5](https://vimeo.com/535828445)
+* [Part 6](https://vimeo.com/535828679)
